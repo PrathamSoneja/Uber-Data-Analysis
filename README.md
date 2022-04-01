@@ -8,3 +8,5 @@ Analysing Uber data of a random person and retrieving insights to answer questio
 5. Which days of the week have the highest number of rides per kilometer?
 6. Which is the longest / shortest and most expensive / cheapest ride?
 7. What is the average lead time before requesting a trip?
+
+dataset: https://raw.githubusercontent.com/faspy/raw_data/main/trips_data.csv
